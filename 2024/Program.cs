@@ -1,1 +1,1 @@
-﻿new Problem01().Solve();
+﻿new Problem02().Solve();
